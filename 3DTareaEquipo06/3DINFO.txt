@@ -1,0 +1,17 @@
+Tarea 06 Dibujar una figura 3D por el metodo de
+Alambre, lineas, Oblicuas.
+Alambre, lineas, Isometricas.
+Metodo de caras Oblicuas e Isometrica.
+
+Equipo 06 Integrantes:
+Lázaro Flores Oswaldo
+López Bacilio Hatzel
+Macal López José Manuel
+Santiz Méndez Carlos Eduardo
+Cigarroa De los Santos Darinel
+
+Para la materia de Graficación impartida por Héctor Herrera Crespo
+Instituto Tecnológico de Tuxtla  Gutiérrez
+
+https://youtu.be/DSMK6daWnLA   
+URL del video
