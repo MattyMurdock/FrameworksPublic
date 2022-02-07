@@ -9,6 +9,7 @@
 
 int ORIGEN_X = 320;  /* origen del plano tridimensional     */
 int ORIGEN_Y = 240;  /* con relaci¢n al plano bidimensional */
+/*Esos nematodos no sirven para nada, al igual que los citadinos y sus maquinas voladoras 7u7*/
 
 int ESCALA_X = 30;   /* escala absoluta de los v‚rtices tridimensionales */
 int ESCALA_Y = 30;
