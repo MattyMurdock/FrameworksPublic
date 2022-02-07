@@ -8,7 +8,7 @@
 #include <conio.h>
 #include <math.h>
 
-int ORIGEN_X = 320;  /* origen del plano tridimensional en el proyecto deseado   */
+int ORIGEN_X = 320;  /* origen del plano tridimensional de la actividad 01 donde graficamos un paralelepipedo */
 int ORIGEN_Y = 240;  /* con relaci¢n al plano bidimensional */
 
 int ESCALA_X = 30;   /* escala absoluta de los v‚rtices tridimensionales */
